@@ -8,3 +8,6 @@ Once that driver is created, you should write frame without #, as this is the ac
 Think of #frame as meaning "make a driver with frame in it".
 
 source: blender.stackexchange.com
+
+TUTORIAL
+https://youtu.be/PYaH2q4OLgE?si=I1HN5OzBiWvHXbVw
