@@ -1,0 +1,5 @@
+sin(radians(frame))
+
+This expression is used to animate a key oscillating between -1 and 1.
+The sin function expects angles in radians, rather than in degrees.
+
